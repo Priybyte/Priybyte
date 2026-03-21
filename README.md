@@ -117,7 +117,7 @@
 
 <br><br><br>
 
-<h2>✨ Let's connect and build something innovative together. ✨</h2>
+<h2>✨ Let's Connect & Build Something Innovative Together. ✨</h2>
 
 <br>
 
