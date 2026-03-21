@@ -107,6 +107,12 @@
 
 ### ⏱️ Weekly Coding Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+C++    7 mins                ████████████████████████▓   99.25 %
+JSON   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
