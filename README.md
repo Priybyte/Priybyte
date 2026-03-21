@@ -95,10 +95,11 @@
 
 ### 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Priybyte&theme=radical&hide_border=false" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<table width="100%" border="0"><tr><td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td><td width="50%" align="center" valign="middle"><img src="https://nirzak-streak-stats.vercel.app/?user=Priybyte&theme=radical&hide_border=false" alt="Streak Stats" /></td></tr></table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 <br><br>
 <a href="https://github.com/Priybyte">
@@ -117,5 +118,9 @@
 <br><br><br>
 
 ### ✨ Thanks for visiting my profile! Let's connect and build something innovative together. ✨
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
