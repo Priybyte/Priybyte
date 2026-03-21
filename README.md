@@ -105,6 +105,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WakaPri&theme=radical&layout=compact&langs_count=10" alt="WakaTime Stats" />
+</div>
+
 ### ⏱️ Weekly Coding Breakdown
 <!--START_SECTION:waka-->
 
