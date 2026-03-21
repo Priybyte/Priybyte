@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -117,7 +117,7 @@
 
 <br><br><br>
 
-### ✨ Let's connect and build something innovative together. ✨
+<h2>✨ Let's connect and build something innovative together. ✨</h2>
 
 <br>
 
