@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -103,7 +103,7 @@
 
 <br><br>
 <a href="https://github.com/Priybyte">
-  <img src="https://komarev.com/ghpvc/?username=Priybyte&label=Profile%20Views&color=D12C85&style=for-the-badge" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPriybyte&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23D12C85&style=for-the-badge" alt="Profile Views" />
 </a>
 
 </div>
@@ -117,10 +117,13 @@
 
 <br><br><br>
 
-### ✨ Thanks for visiting my profile! Let's connect and build something innovative together. ✨
+### ✨ Let's connect and build something innovative together. ✨
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=764ba2,667eea&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+<br>
+<i><small>Thanks for visiting my profile 🚀</small></i>
 
 </div>
