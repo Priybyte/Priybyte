@@ -101,11 +101,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-<br><br>
+</div>
+
+<br>
+
+### ⏱️ Weekly Coding Breakdown
+<br>
+
+<div align="center">
 <a href="https://github.com/Priybyte">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPriybyte&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23D12C85&style=for-the-badge" alt="Profile Views" />
 </a>
-
 </div>
 
 ---
