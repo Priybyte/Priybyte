@@ -106,6 +106,8 @@
 <br>
 
 ### ⏱️ Weekly Coding Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
