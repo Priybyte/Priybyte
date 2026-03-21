@@ -1,18 +1,17 @@
 <div align="center">
+  <img src="banner.png" width="100%" alt="Priyanshu Chakraborty Banner" />
+  
+  <br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
 
-# Priyanshu Chakraborty 💫
+<div align="center">
 
-<a href="https://github.com/Priybyte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=550&lines=Problem+Solver;Full-Stack+Web+Developer;Building+Tech+for+Social+Impact" alt="Typing SVG" />
-</a>
-
-🎓 **B.Tech in Computer Science at VIT Bhopal University (Class of 2027)** <br>
-💻 Exploring scalable backend architectures (Node.js & Express) <br>
-🏆 **Milestone:** Conquered 300+ algorithmic problems on LeetCode <br>
-🤝 Open for collaboration on MERN stack projects, Gen-AI tools, & impactful hackathons <br>
-🧠 *Philosophy: "Those who cannot remember the past are condemned to repeat it" ~ DP*
+### 🚀 About Me
 
 </div>
+
+<table width="100%" border="0"><tr><td width="60%" valign="top"><a href="https://github.com/Priybyte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00E5FF&vCenter=true&width=550&lines=Problem+Solver;Full-Stack+Web+Developer;Building+Tech+for+Social+Impact" alt="Typing SVG" /></a><br><br><p align="left"><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D12C85?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="25"/></a>&nbsp;<a href="mailto:priyanshu.codendev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D12C85?style=flat&logo=gmail&logoColor=white" alt="gmail" height="25"/></a>&nbsp;<a href="Priyanshu_Chakraborty_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-D12C85?style=flat&logo=google-drive&logoColor=white" alt="resume" height="25"/></a></p><br>• 🎓 <b>B.Tech in Computer Science at VIT Bhopal (Class of 2027)</b><br>• 💻 Exploring scalable backend architectures (Node.js & Express)<br>• 🏆 <b>Milestones:</b> Solved 300+ LeetCode & 100+ Codeforces problems<br>• 🌱 <b>Mastering:</b> Advanced DSA (C++), Web Dev & AWS Deployment<br>• 🤝 Open to collaborate on MERN projects, Gen-AI & hackathons<br>• 🍿 <b>Beyond Coding:</b> You can usually find me watching thriller movies<br>• 🧠 <i>Fun Fact: I spend more time naming variables than writing logic!</i></td><td width="40%" align="center" valign="middle"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFubnc0Mnl1MWpwODY5MnF3YjEwazZyYzY5a242Mm90aHZodzZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Developer Coding GIF" /></td></tr></table>
 
 ---
 
@@ -101,6 +100,11 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
+<br><br>
+<a href="https://github.com/Priybyte">
+  <img src="https://komarev.com/ghpvc/?username=Priybyte&label=Profile%20Views&color=D12C85&style=for-the-badge" alt="Profile Views" />
+</a>
+
 </div>
 
 ---
@@ -109,3 +113,9 @@
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br><br><br>
+
+### ✨ Thanks for visiting my profile! Let's connect and build something innovative together. ✨
+
+</div>
