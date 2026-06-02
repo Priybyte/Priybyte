@@ -65,7 +65,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <a href="https://leetcode.com/u/Pri_Code_Dev/">
+      <a href="https://leetcode.com/u/LeetPreet/">
         <img src="https://leetcard.jacoblin.cool/Pri_Code_Dev?theme=dark&font=Recursive&ext=activity" height="280" alt="LeetCode Stats" />
       </a>
     </td>
