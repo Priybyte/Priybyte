@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="banner.png" width="100%" alt="Priyanshu Chakraborty Banner" />
   
@@ -102,24 +101,27 @@
 
 <div align="center">
 
-### 📈 GitHub Analytics
-
+## 📈 Github Analytics
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=92FE9D&center=true&vCenter=true&width=550&lines=Commits%2C+Streaks%2C+and+Chaos;A+Peek+Into+My+GitHub+Life" alt="Typing SVG"/> -->
 </div>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priybyte&show_icons=true&theme=radical&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Priybyte&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Priybyte&theme=tokyonight&hide_border=true"/>
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priybyte&theme=tokyonight"/>
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priybyte&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priybyte&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priybyte&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WakaPri&theme=radical&layout=compact&langs_count=10" alt="WakaTime Stats" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WakaPri&theme=radical&layout=compact&langs_count=10"/>
+</div> -->
 
 ### ⏱️ Weekly Coding Breakdown
 <!--START_SECTION:waka-->
@@ -160,4 +162,4 @@ C++   3 hrs 20 mins         █████████████████�
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,2,5,30" width="100%"/>
