@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,20" width="100%"/>
 
 <div align="center">
   <img src="banner.png" width="100%" alt="Priyanshu Chakraborty Banner" />
