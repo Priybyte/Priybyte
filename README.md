@@ -14,7 +14,7 @@
 <table width="100%" border="0"><tr><td width="60%" valign="top"><a href="https://github.com/Priybyte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00E5FF&vCenter=true&width=550&lines=Problem+Solver;Full-Stack+Web+Developer;Building+Tech+for+Social+Impact" alt="Typing SVG" /></a><br><br><p align="left"><a href="https://www.linkedin.com/in/priyanshu-chakraborty-57319028a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D12C85?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="25"/></a>&nbsp;<a href="https://wakatime.com/@WakaPri" target="_blank"><img src="https://img.shields.io/badge/-WakaTime-D12C85?style=flat&logo=wakatime&logoColor=white" alt="wakatime" height="25"/></a>&nbsp;<a href="mailto:priyanshu.codendev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D12C85?style=flat&logo=gmail&logoColor=white" alt="gmail" height="25"/></a>&nbsp;<a href="Priyanshu_Chakraborty_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-D12C85?style=flat&logo=google-drive&logoColor=white" alt="resume" height="25"/></a></p><br>• 🎓 <b>B.Tech in Computer Science at VIT Bhopal (Class of 2027)</b><br>• 💻 Exploring scalable backend architectures (Node.js & Express)<br>• 🏆 <b>Milestones:</b> Solved 300+ LeetCode & 100+ Codeforces problems<br>• 🌱 <b>Mastering:</b> Advanced DSA (C++), Web Dev & AWS Deployment<br>• 🤝 Open to collaborate on MERN projects, Gen-AI & hackathons<br>• 🍿 <b>Beyond Coding:</b> You can usually find me watching thriller movies<br>• 🧠 <i>Fun Fact: I spend more time naming variables than writing logic!</i></td><td width="40%" align="center" valign="middle"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFubnc0Mnl1MWpwODY5MnF3YjEwazZyYzY5a242Mm90aHZodzZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Developer Coding GIF" /></td></tr></table>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <div align="center">
@@ -50,7 +50,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <div align="center">
@@ -96,38 +96,39 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <div align="center">
 
 ## 📈 Github Analytics
+
 </div>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Priybyte&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Priybyte&theme=dracula&hide_border=true"/>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priybyte&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priybyte&theme=dracula"/>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priybyte&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priybyte&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priybyte&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priybyte&theme=dracula"/>
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <br>
 
 <div align="center">
-  
+
 ### ⏱️ Weekly Coding Breakdown
-  
+
 </div>
+
 <!--START_SECTION:waka-->
 
-```txt
-C++   3 hrs 20 mins         █████████████████████████   100.00 %
-```
+C++      3 hrs 20 mins        █████████████████████████   100.00 %
 
 <!--END_SECTION:waka-->
 
@@ -140,7 +141,7 @@ C++   3 hrs 20 mins         █████████████████�
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30"/>
 </p>
 
 <div align="center">
@@ -154,7 +155,7 @@ C++   3 hrs 20 mins         █████████████████�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,20&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80" alt="Thanks for visiting my profile" />
