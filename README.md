@@ -101,8 +101,7 @@
 
 <div align="center">
 
-## 📈 Behind The Commits
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=92FE9D&center=true&vCenter=true&width=550&lines=Commits%2C+Streaks%2C+and+Chaos;A+Peek+Into+My+GitHub+Life" alt="Typing SVG"/>
+## 📈 Github Analytics
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Priybyte&theme=tokyonight&hide_border=true"/>
@@ -120,10 +119,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WakaPri&theme=radical&layout=compact&langs_count=10" alt="WakaTime Stats" />
-</div>
-
+  
 ### ⏱️ Weekly Coding Breakdown
+  
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
