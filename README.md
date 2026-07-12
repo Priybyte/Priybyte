@@ -101,17 +101,16 @@
 
 <div align="center">
 
-## 📈 Github Analytics
-
+## 📈 Behind The Commits
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=92FE9D&center=true&vCenter=true&width=550&lines=Commits%2C+Streaks%2C+and+Chaos;A+Peek+Into+My+GitHub+Life" alt="Typing SVG"/>
 </div>
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Priybyte&theme=nord&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Priybyte&theme=tokyonight&hide_border=true"/>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priybyte&theme=nord"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priybyte&theme=tokyonight"/>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priybyte&theme=nord"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priybyte&theme=nord"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priybyte&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priybyte&theme=tokyonight"/>
 </div>
 
 <p align="center">
@@ -119,6 +118,10 @@
 </p>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WakaPri&theme=radical&layout=compact&langs_count=10" alt="WakaTime Stats" />
+</div>
 
 ### ⏱️ Weekly Coding Breakdown
 <!--START_SECTION:waka-->
