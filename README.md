@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85" width="100%"/>
+
 <div align="center">
   <img src="banner.png" width="100%" alt="Priyanshu Chakraborty Banner" />
   
   <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
 
 <div align="center">
@@ -13,7 +15,9 @@
 
 <table width="100%" border="0"><tr><td width="60%" valign="top"><a href="https://github.com/Priybyte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00E5FF&vCenter=true&width=550&lines=Problem+Solver;Full-Stack+Web+Developer;Building+Tech+for+Social+Impact" alt="Typing SVG" /></a><br><br><p align="left"><a href="https://www.linkedin.com/in/priyanshu-chakraborty-57319028a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D12C85?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="25"/></a>&nbsp;<a href="https://wakatime.com/@WakaPri" target="_blank"><img src="https://img.shields.io/badge/-WakaTime-D12C85?style=flat&logo=wakatime&logoColor=white" alt="wakatime" height="25"/></a>&nbsp;<a href="mailto:priyanshu.codendev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D12C85?style=flat&logo=gmail&logoColor=white" alt="gmail" height="25"/></a>&nbsp;<a href="Priyanshu_Chakraborty_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-D12C85?style=flat&logo=google-drive&logoColor=white" alt="resume" height="25"/></a></p><br>• 🎓 <b>B.Tech in Computer Science at VIT Bhopal (Class of 2027)</b><br>• 💻 Exploring scalable backend architectures (Node.js & Express)<br>• 🏆 <b>Milestones:</b> Solved 300+ LeetCode & 100+ Codeforces problems<br>• 🌱 <b>Mastering:</b> Advanced DSA (C++), Web Dev & AWS Deployment<br>• 🤝 Open to collaborate on MERN projects, Gen-AI & hackathons<br>• 🍿 <b>Beyond Coding:</b> You can usually find me watching thriller movies<br>• 🧠 <i>Fun Fact: I spend more time naming variables than writing logic!</i></td><td width="40%" align="center" valign="middle"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFubnc0Mnl1MWpwODY5MnF3YjEwazZyYzY5a242Mm90aHZodzZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Developer Coding GIF" /></td></tr></table>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85"/>
+</p>
 
 <div align="center">
 
@@ -47,7 +51,9 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85"/>
+</p>
 
 <div align="center">
 
@@ -56,7 +62,9 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85"/>
+</p>
 
 <div align="center">
 
@@ -89,13 +97,24 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85"/>
+</p>
 
 <div align="center">
 
 ### 📈 GitHub Analytics
 
-<table width="100%" border="0"><tr><td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td><td width="50%" align="center" valign="middle"><img src="https://nirzak-streak-stats.vercel.app/?user=Priybyte&theme=radical&hide_border=false" alt="Streak Stats" /></td></tr></table>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Priybyte&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Priybyte&theme=radical&hide_border=false" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -126,7 +145,9 @@ C++   3 hrs 20 mins         █████████████████�
 </a>
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85"/>
+</p>
 
 <div align="center">
 
@@ -145,3 +166,5 @@ C++   3 hrs 20 mins         █████████████████�
 <i><small>Thanks for visiting my profile 🚀</small></i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=764ba2,667eea,00E5FF,D12C85" width="100%"/>
