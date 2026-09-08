@@ -119,9 +119,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 hrs 15 mins         ████████████████████████░   95.96 %
-C++        15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Erlang     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   6 hrs 22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
